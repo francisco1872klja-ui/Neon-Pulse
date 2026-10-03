@@ -1,0 +1,24 @@
+{
+  "atalhos": [
+    {
+      "nome": "YouTube",
+      "hotkey": "ctrl+alt+y",
+      "url_busca": "https://www.youtube.com/results?search_query="
+    },
+    {
+      "nome": "Google",
+      "hotkey": "ctrl+alt+g",
+      "url_busca": "https://www.google.com/search?q="
+    },
+    {
+      "nome": "GitHub",
+      "hotkey": "ctrl+alt+h",
+      "url_busca": "https://github.com/search?q="
+    },
+    {
+      "nome": "Stack Overflow",
+      "hotkey": "ctrl+alt+s",
+      "url_busca": "https://stackoverflow.com/search?q="
+    }
+  ]
+}
